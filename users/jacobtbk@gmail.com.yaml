@@ -1,0 +1,8 @@
+name: 'Jacob Baker-Kretzmar'
+super: true
+id: 2be180c7-29e6-45d4-a767-d9ece0740086
+password_hash: $2y$10$tBpIqq334dCCC5f2jaUJp.qcNbNOJDNv/ieqQzkzoN6OEF6qZZT0e
+preferences:
+  assets:
+    assets:
+      mode: grid
